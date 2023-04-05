@@ -14,18 +14,18 @@ In this is project project  i make insurance policy rest api.
 - DELETE  http://localhost:8080/api/clients/id       for deleting a client by id
 
 ## for insurance policies
--GET http://localhost:8080/api/policies         for fetching all polices
--GET  http://localhost:8080/api/policies/id    for fetching policies by id
--POST  http://localhost:8080/api/policies     for creating new policies
--PUT   http://localhost:8080/api/policies/id   for updating policies
--DELETE   http://localhost:8080/api/policies/id    for deleting policies by id
+- GET http://localhost:8080/api/policies         for fetching all polices
+- GET  http://localhost:8080/api/policies/id    for fetching policies by id
+- POST  http://localhost:8080/api/policies     for creating new policies
+- PUT   http://localhost:8080/api/policies/id   for updating policies
+- DELETE   http://localhost:8080/api/policies/id    for deleting policies by id
 
 ## for insurance claims
--GET http://localhost:8080/api/claims         for fetching all claims
--GET  http://localhost:8080/api/claims/id   for fetching claims by id
--POST  http://localhost:8080/api/claims     for creating new claims
--PUT   http://localhost:8080/api/claims/id   for updating claims
--DELETE  http://localhost:8080/api/claims/id   for deleting claims by id
+- GET http://localhost:8080/api/claims         for fetching all claims
+- GET  http://localhost:8080/api/claims/id   for fetching claims by id
+- POST  http://localhost:8080/api/claims     for creating new claims
+- PUT   http://localhost:8080/api/claims/id   for updating claims
+- DELETE  http://localhost:8080/api/claims/id   for deleting claims by id
 
 
 
